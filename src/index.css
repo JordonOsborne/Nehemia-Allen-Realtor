@@ -137,6 +137,7 @@ button {
 .pageHeader {
   font-size: 2rem;
   font-weight: 800;
+  margin-bottom: 2rem;
 }
 
 .navbar {
@@ -184,24 +185,24 @@ button {
   color: #2c2c2c;
 }
 
-/* .nameInput {
+.nameInput {
   margin-bottom: 2rem;
-  background: url("./assets/svg/badgeIcon.svg") #ffffff 2.5% center no-repeat;
-} */
+  background: url("./Assets/svg/badgeIcon.svg") #ffffff 2.5% center no-repeat;
+}
 
-/* .emailInput {
+.emailInput {
   margin-bottom: 2rem;
-  background: url("./assets/svg/personIcon.svg") #ffffff 2.5% center no-repeat;
-} */
+  background: url("./Assets/svg/personIcon.svg") #ffffff 2.5% center no-repeat;
+}
 
 .passwordInputDiv {
   position: relative;
 }
 
-/* .passwordInput {
+.passwordInput {
   margin-bottom: 2rem;
-  background: url("./assets/svg/lockIcon.svg") #ffffff 2.5% center no-repeat;
-} */
+  background: url("./Assets/svg/lockIcon.svg") #ffffff 2.5% center no-repeat;
+}
 
 .showPassword {
   cursor: pointer;
